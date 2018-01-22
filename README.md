@@ -7,6 +7,8 @@ Funny with your ideas and build your own Linux system.
 
 #### OrangePi Build System support list:
 
+  * OrangePi PC
+
   * OrangePi PC2
  
   * OrangePi Prima
