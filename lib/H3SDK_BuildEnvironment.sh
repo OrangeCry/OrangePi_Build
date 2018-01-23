@@ -11,7 +11,7 @@ fi
 # Github
 kernel_GITHUB="https://github.com/orangepi-xunlong/OrangePiH3_kernel.git"
 uboot_GITHUB="https://github.com/orangepi-xunlong/OrangePiH3_uboot.git"
-scripts_GITHUB="https://github.com/orangepi-xunlong/OrangePiH3_scripts.git"
+scripts_GITHUB="https://github.com/OrangeCry/OrangePiH3_scripts.git"
 external_GITHUB="https://github.com/orangepi-xunlong/OrangePiH3_external.git"
 toolchain="https://codeload.github.com/orangepi-xunlong/OrangePiH3_toolchain/zip/master"
 
